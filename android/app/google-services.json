@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256012514157",
+    "project_id": "myinoface",
+    "storage_bucket": "myinoface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256012514157:android:42324aedb5f6f51b8d2064",
+        "android_client_info": {
+          "package_name": "com.inoser.myinoface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256012514157-lo86egg6edq06tpau3ap3g2ug47obb61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nmIia108ofoqSypoQLG-14h7UM8FqxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256012514157-lo86egg6edq06tpau3ap3g2ug47obb61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
