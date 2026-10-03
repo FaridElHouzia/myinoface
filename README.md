@@ -80,8 +80,7 @@ Signing: Simulator builds use automatic signing with team `PL35WBFPFC` already i
 ### 5. What you can / cannot test
 
 | Works on Simulator | Weak / missing |
-|---|---|
-| Email/password login | QR / camera scan |
+|---|---|| Email/password login | QR / camera scan |
 | Classes, gardes, recovery screens | Real push from APNs (FCM is limited) |
 | Layout, French/Arabic, rotation | Performance like a real phone |
 | App icon, launch screen | TestFlight (that is a signed device/IPA flow) |
